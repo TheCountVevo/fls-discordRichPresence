@@ -1,0 +1,8 @@
+{
+  "name": "fls-discordrichpresence",
+  "version": "1.0.0",
+  "description": "Simple Discord Rich Presence for FL Studio 20",
+  "main": "index.js",
+  "author": "TheCountVEVO",
+  "license": "AGPL 3.0"
+}
